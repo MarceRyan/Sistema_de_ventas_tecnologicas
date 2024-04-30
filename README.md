@@ -11,3 +11,5 @@ HTML: Lenguaje de marcado para la estructura de la página web.
 CSS: Utilizado para estilizar y dar formato a la página web, mejorando su aspecto visual.
 JavaScript: Proporciona interactividad a la página, como validación de formularios y manipulación del DOM.
 PHP: Utilizado para el procesamiento de datos del lado del servidor, como el manejo de sesiones y la gestión de pedidos.
+
+[![Estafa-Shop.png](https://i.postimg.cc/pdLm9FFg/Estafa-Shop.png)](https://postimg.cc/4Yjfqnw5)
